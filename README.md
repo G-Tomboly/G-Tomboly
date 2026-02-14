@@ -137,14 +137,22 @@ Sistema web para registro digital de ponto corporativo com armazenamento estrutu
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G-Tomboly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats" />
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=G-Tomboly&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<br/>
-
----
-
+  <img 
+      align="left" 
+      alt="Top Languages" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Tomboly&theme=tokyonight&layout=compact&langs_count=8" 
+  />
+</p>
 ---
 
 ## 🎯 Objetivo
