@@ -11,7 +11,6 @@ Busco evoluir tecnicamente através de projetos práticos, estudo contínuo e pa
 
 - 💻 Foco principal: Python e Java
 - 🤖 Interesse em Robótica e Sistemas Embarcados
-- 🌐 Conhecimento básico em JavaScript para aplicações web
 - 🛠️ Experiência com Git e versionamento
 - 📚 Em constante evolução técnica
 
