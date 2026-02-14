@@ -109,7 +109,7 @@ Simulação de desempenho com cálculos de tempo e velocidade em ambiente intera
 
 ### 🔹 Plataforma Web – Young Latin American (Full-Stack)
 
-Desenvolvedor full-stack do site do projeto social Young Latin American.  
+Desenvolvedor solo full-stack do site do projeto social Young Latin American.  
 Sistema para publicação e gerenciamento colaborativo de conteúdo.
 
 ---
@@ -137,20 +137,13 @@ Sistema web para registro digital de ponto corporativo com armazenamento estrutu
 
 ## 📊 Estatísticas
 
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=G-Tomboly&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-
-  <img 
-  align="left" 
-  alt="Top Languages" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Tomboly&theme=tokyonight&layout=compact&langs_count=8" 
-/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=G-Tomboly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Tomboly&theme=tokyonight&layout=compact&langs_count=8"/>
+</div>
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=G-Tomboly&theme=tokyonight&locale=pt-br" alt="streak stats"/>
+</div>
 
 
 <br/><br/>
