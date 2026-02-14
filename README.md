@@ -60,7 +60,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-ori
 
 Desenvolvimento completo do sistema de controle em Python para robô autônomo em competição de robótica.  
 Implementação de lógica de navegação, tomada de decisão e execução de tarefas automatizadas.  
-Conquista de 2x 1º lugar na competição 🏆.  
+Conquista de 2 vezes 1º lugar em competição 🏆.  
 
 ---
 
