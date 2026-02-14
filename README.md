@@ -18,7 +18,7 @@ Busco evoluir tecnicamente através de projetos práticos, estudo contínuo e pa
 
 ## 🧠 Tecnologias
 
-### Linguagens
+### Linguagens & Bibliotecas
 
 <img align="left" alt="Python" width="30px" style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -35,16 +35,22 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 <img align="left" alt="CSS" width="30px" style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 
+<img align="left" alt="NumPy" width="30px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
+
+<img align="left" alt="Pandas" width="30px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
+
+<img align="left" alt="Matplotlib" width="30px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"/>
+
+<img align="left" alt="OpenCV" width="30px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
+
 <br/>
 <br/>
 
-### Ferramentas
 
-<img align="left" alt="Git" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-
-<br/>
-<br/>
 
 ---
 
@@ -87,15 +93,16 @@ Sistema web para registro digital de ponto corporativo com armazenamento de dado
 ---
 
 ## 🏆 Certificações Relevantes
-
-- **Python Developer Certificate** – Sololearn (2026)  
+- **Introduction to Python Certificate** – Sololearn (2023)
+- **Data Analyses Certificate** – Hashtag Treinamentos (2023)  
+- **Python Certificate** – Santander (2024)
+- **Python Developer Certificate** – Sololearn (2026)
+- **Trigonometry Course** – FATEC Taubaté (2024)
+- **Cálculo I** – Univesp (2024)  
 - **Java Programming Masterclass** – Alison (2026)  
 - **Project Planning with AI** – Sololearn (2026)  
 - **Prompt Engineering Certificate** – Sololearn (2026)  
-- **Cálculo I** – Cursa (2026)  
-- **Trigonometry Course** – FATEC Taubaté (2024)  
 - **FRC Team Member Recognition – Sharks #9199** – SENAI Taubaté (2026)  
-- **Artigo Apresentado – XIII CICTED** – Universidade de Taubaté (3º lugar, 2024)
 
 ---
 
