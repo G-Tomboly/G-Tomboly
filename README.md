@@ -1,39 +1,79 @@
 # 👨🏻‍💻 Guilherme Tomboly Borges
 
-<!-- 🎖️ Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=G-Tomboly&theme=tokyonight" />
-</p>
+**`Python Developer | Java Programmer | Robotics Enthusiast`**
 
-### 🛠️ Skills
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img alt="Automation" src="https://img.shields.io/badge/Automation-F7931E?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-3C78D8?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+Me chamo Guilherme Tomboly Borges e sou estudante e desenvolvedor com foco em Python e Java. 
+Tenho interesse em robótica, automação e desenvolvimento de software, buscando constantemente evoluir minhas habilidades técnicas através de projetos práticos e competições.
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <img alt="FLL Awards" src="https://img.shields.io/badge/FLL-🏅%201st%20Design%20Award-brightgreen?style=for-the-badge" />
-  <img alt="FLL Challenge" src="https://img.shields.io/badge/FLL-🏆%20Challenge%20Winner-blueviolet?style=for-the-badge" />
-  <img alt="SharkVision Awards" src="https://img.shields.io/badge/SharkVision-3%20Awards-yellow?style=for-the-badge" />
-  <img alt="Innovation Projects" src="https://img.shields.io/badge/Innovation-2%20Projects-orange?style=for-the-badge" />
-</p>
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<br/>
+<br/>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G-Tomboly&theme=tokyonight&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Tomboly&theme=tokyonight&layout=compact" />
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=G-Tomboly&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+      align="left" 
+      alt="Top Languages" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Tomboly&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
 </p>
-
----
-
-**⚡ Robotics Systems Developer | Python Engineer | Java Programmer**
-
-Engineering intelligent automation, robotics systems, and performance-focused software.
