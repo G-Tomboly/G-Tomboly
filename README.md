@@ -86,7 +86,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-ori
 ### 🔹 Sistema de Controle para Robô Autônomo (Python)
 
 Desenvolvimento completo do sistema de controle para robô autônomo em competição de robótica.  
-Implementação de lógica de navegação, tomada de decisão e execução de tarefas automatizadas.  
+Implementação de lógica de navegação, tomada de decisão, controle PID e execução de tarefas automatizadas.  
 🏆 Conquista de 2x 1º lugar em competição.
 
 ---
