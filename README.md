@@ -89,6 +89,8 @@ Desenvolvimento completo do sistema de controle para robô autônomo em competi�
 Implementação de lógica de navegação, tomada de decisão, controle PID e execução de tarefas automatizadas.  
 🏆 Conquista de 2x 1º lugar em competição.
 
+🔗 https://github.com/G-Tomboly/Python-Code-Sharks
+
 ---
 
 ### 🔹 Programação de Robôs – FRC (Java)
