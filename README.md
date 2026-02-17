@@ -110,13 +110,15 @@ Simulação de desempenho com cálculos de tempo e velocidade em ambiente intera
 ### 🔹 Plataforma Web – Young Latin American (Full-Stack)
 
 Desenvolvedor solo full-stack do site do projeto social Young Latin American.  
-Sistema para publicação e gerenciamento colaborativo de conteúdo.
+Sistema para publicação e gerenciamento colaborativo de conteúdo.. (Finalizando)
 
 ---
 
 ### 🔹 Sistema Web para Controle de Ponto – Ponto Fácil
 
 Sistema web para registro digital de ponto corporativo com armazenamento estruturado de dados.
+
+🔗 https://sistema-ponto-wd.onrender.com/login.html
 
 ---
 
