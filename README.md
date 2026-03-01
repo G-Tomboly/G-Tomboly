@@ -138,21 +138,14 @@ Sistema web para registro digital de ponto corporativo com armazenamento estrutu
 - FRC Team Member Recognition – Sharks #9199 (2026)
 
 ---
-
 ## 📊 Estatísticas
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=G-Tomboly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
-    alt="GitHub Stats" 
-    height="190" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Tomboly&theme=tokyonight&layout=compact&langs_count=8" 
-    alt="Top Languages" 
-    height="190" 
-  />
-</p>
+<div align="center">
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=G-Tomboly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Tomboly&theme=tokyonight&layout=compact&langs_count=8"/>
+
+</div>
 
 ---
 
