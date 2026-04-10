@@ -135,7 +135,6 @@ Sistema web para registro digital de ponto corporativo com armazenamento estrutu
 - Java Programming Masterclass – Alison (2026)  
 - Project Planning with AI – Sololearn (2026)  
 - Prompt Engineering – Sololearn (2026)  
-- FRC Team Member Recognition – Sharks #9199 (2026)
 
 ---
 ## 📊 Estatísticas
