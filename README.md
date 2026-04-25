@@ -98,6 +98,8 @@ Implementação de lógica de navegação, tomada de decisão, controle PID e ex
 Desenvolvimento em Java para controle de robôs na First Robotics Competition.  
 Implementação dos modos teleoperado e autônomo com foco em precisão e desempenho competitivo.
 
+🔗 Disponíveis nos Repositórios...
+
 ---
 
 ### 🔹 Unearthed Sharks Simulator – RoboStage
@@ -113,6 +115,8 @@ Simulação de desempenho com cálculos de tempo e velocidade em ambiente intera
 
 Desenvolvedor solo full-stack do site do projeto social Young Latin American.  
 Sistema para publicação e gerenciamento colaborativo de conteúdo.. (Finalizando)
+
+🔗 https://young-latin-american.vercel.app/
 
 ---
 
